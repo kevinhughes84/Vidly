@@ -86,3 +86,10 @@ C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscr
 C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
 C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.applyAnnotationsToCustomerName.resources
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateNameValuesMembershipType.resources
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddBirthDateToCustomer.resources
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddedMovieProperties.resources
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateGenres.resources
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateGenreTable.resources
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.UpdateGenreAgain.resources
