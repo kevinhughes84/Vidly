@@ -80,3 +80,9 @@ C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\bin\Microsoft.Owin.Security.MicrosoftA
 C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.dll
 C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\Kevs\Documents\Vidly\Vidly\Vidly\obj\Debug\Vidly.Migrations.applyAnnotationsToCustomerName.resources
